@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Oystehr is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://oystehr.com/
+Oystehr provides a developer‑first, headless electronic health record (EHR) platform that is ONC certified. It offers a comprehensive set of APIs and infrastructure enabling developers to build next‑generation health‑tech applications, including telehealth, messaging, eRx, insurance validation, and claims submission, all at a fraction of traditional costs.
+
+**Areas:** Company · HealthTech · EHR · API · DeveloperFirst
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://oystehr.com/)
+- [Documentation](https://docs.oystehr.com/)
+- [Getting started](https://docs.oystehr.com/ottehr/setup/introduction/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/oystehr/](https://apis.io/providers/oystehr/).
